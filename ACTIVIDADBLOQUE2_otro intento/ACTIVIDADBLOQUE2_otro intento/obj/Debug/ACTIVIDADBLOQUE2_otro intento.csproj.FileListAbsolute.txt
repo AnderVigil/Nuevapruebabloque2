@@ -1,0 +1,12 @@
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\bin\Debug\db_peliculas.mdf
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\bin\Debug\db_peliculas_log.ldf
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\bin\Debug\ACTIVIDADBLOQUE2_otro intento.exe.config
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\bin\Debug\ACTIVIDADBLOQUE2_otro intento.exe
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\bin\Debug\ACTIVIDADBLOQUE2_otro intento.pdb
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\obj\Debug\ACTIVIDADBLOQUE2_otro intento.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\obj\Debug\ACTIVIDADBLOQUE2_otro_intento.Form1.resources
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\obj\Debug\ACTIVIDADBLOQUE2_otro_intento.Properties.Resources.resources
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\obj\Debug\ACTIVIDADBLOQUE2_otro intento.csproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\obj\Debug\ACTIVIDADBLOQUE2_otro intento.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\obj\Debug\ACTIVIDADBLOQUE2_otro intento.exe
+C:\Users\ander\OneDrive\Escritorio\Nuevapruebabloque2\ACTIVIDADBLOQUE2_otro intento\ACTIVIDADBLOQUE2_otro intento\obj\Debug\ACTIVIDADBLOQUE2_otro intento.pdb
